@@ -41,6 +41,10 @@
   
     This project includes Matlab Code with Communication Simulation.
 
+  **7 - Test Automation Project**
+  
+    This project includes Java, Selenium, JUnit and 10k line of codes.
+
 - 🌱 **I am preparing descriptions and guidelines for these projects :**
   
   1 - AnalogCommunicationProjects-Com1
