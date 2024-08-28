@@ -1,17 +1,68 @@
 <h1 align="center">Hi 👋, I'm Alirıza BILIR .</h1>
-<h3 align="center">A passionate Electronics and Communication Engineer from Turkey.</h3>
 
+<h3 align="center">A passionate Electronics and Communication Engineer from Turkey. </h3>
+
+- 🤝 **One to Another**
+   
+   I am creating my GitHub profile for my fellow students, who are studying in such a challenging field, that is, the next generation of colleagues, as well as for anyone who wants to work on projects in these     areas and to help guide my professional career by providing a platform for people to view my work. Through this profile, I aim to share the projects I have participated in and led, the research I have completed,   and the goals I am still working towards. I will try to ensure that the documents I share are not just code, but also include verbal explanations and information as much as possible. Additionally, I will be        adding more content soon. I hope that the information I share will be of some benefit to you, my valuable visitors.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lrzblr&label=Profile%20views&color=0e75b6&style=flat" alt="lrzblr" /> </p>
 
-- 📝 I am currently working on specializing in [VHDL , Network and GNSS technologies.](VHDL , Network and GNSS technologies.)
+- 📝 I am currently working on specializing in VHDL , Network and GNSS technologies.
 
-- 💬 Ask me about **C, C++, C#, Matlab, VHDL, Orcad, Excel, Java, Selenium, JUnit, LTspice, Eagle, Dosbox (Assembly), OptiSystem**
+- 💬 Ask me about **C, C++, C#, Matlab, VHDL, Orcad, Excel, Java, Selenium, JUnit, LTspice, Eagle, Dosbox (Assembly), OptiSystem.**
 
 - 📫 How to reach me **lrzblr@gmail.com or www.linkedin.com/in/lrzblr/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1enizlNfGVByndvB7_z38DCC7Yn6IMZZo/view?usp=sharing (Last Update:28.08.2024))](https://drive.google.com/file/d/1enizlNfGVByndvB7_z38DCC7Yn6IMZZo/view?usp=sharing (Last Update:28.08.2024)))
+- 📄 Know about my experiences  https://drive.google.com/file/d/1enizlNfGVByndvB7_z38DCC7Yn6IMZZo/view?usp=sharing (Last Update:28.08.2024)
 
-- ⚡ About Me **I am creating my GitHub profile for my fellow students, who are studying in such a challenging field, that is, the next generation of colleagues, as well as for anyone who wants to work on projects in these areas and to help guide my professional career by providing a platform for people to view my work. Through this profile, I aim to share the projects I have participated in and led, the research I have completed, and the goals I am still working towards. I will try to ensure that the documents I share are not just code, but also include verbal explanations and information as much as possible. Additionally, I will be adding more content soon. I hope that the information I share will be of some benefit to you, my valuable visitors.**
+- 👨‍💻 **I am preparing to upload these projects to GitHub :**
+  
+  **1 - Smart Grid for Renewable Energy: Energy Management and Monitoring with Microcontroller**
+  
+    This project includes API, ESP32, Wi-Fi, Matlab, Sensors.
+  
+  **2 - Optic Communication System Design with OptiSystem Simulation and Performance Analys**
+  
+    This project includes  OptiSystem Simulation and Performance Analysis.
+  
+  **3 - Horn Antenna Design and Propagation**
+  
+    This project includes  CST Simulation and Performance Analysis.
+  
+  **4 - Microprocessor Design**
+  
+    This project includes Assembly Code Design and Architecture with 2 different projects.
+  
+  **5 - Logic Circuit Design Projects**
+  
+    This project includes Eagle and Orcad designs.
+  
+  **6 - Signals and Systems Design**
+  
+    This project includes Matlab Code with Communication Simulation.
+
+- 🌱 **I am preparing descriptions and guidelines for these projects :**
+  
+  1 - AnalogCommunicationProjects-Com1
+  
+  2 - C_Programming
+    
+  3 - DataCommunicationProjects-DataCom
+    
+  4 - DigitalCommunicationProjects-Com2
+   
+  5 - ElectronicCircuitDesignProjects-EC
+    
+  6 - FieldProgrammableGateArrayProjects-FPGA
+
+  7 - NumericalSolutionMethodsProjects
+  
+  8 - STM32Projects-STM32F407VGTx
+   
+  Projects will be organized and README files will be written to ensure the code is usable and understandable.
+
+  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
