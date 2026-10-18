@@ -7,9 +7,6 @@
   Focused on RF/Antenna Design, High-Speed Optical Systems, CCNA Routing & Switching, and Low-Latency FPGA/RTL Engineering.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lrzblr&label=Profile%20views&color=0e75b6&style=flat-square" alt="lrzblr Profile Views" />
-</p>
 
 ---
 
